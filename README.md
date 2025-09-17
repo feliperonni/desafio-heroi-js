@@ -8,7 +8,7 @@ O objetivo é criar um programa que classifica heróis com base na experiência 
 
 ## Tecnologias utilizadas
 
-- JavaScript (ES6+)
+- JavaScript
 - Node.js
 - Git & GitHub
 
